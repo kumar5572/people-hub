@@ -57,7 +57,7 @@ navigation/
 
 ## Demo Video
 
-Add your Google Drive or GitHub video link here.
+[Download Demo Video](screenshots/PeopleHub-Demo-Video.mp4)
 
 ---
 
