@@ -57,7 +57,7 @@ navigation/
 
 ## Demo Video
 
-[Download Demo Video](screenshots/PeopleHub-Demo-Video.mp4)
+[Watch Demo Video](screenshots/PeopleHub-Demo-Video.mp4)
 
 ---
 
